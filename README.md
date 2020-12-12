@@ -10,6 +10,8 @@ Member: 박종찬, 유승진, 정원빈
 
 This project is about suggestion of complex adversarial training against multiple adversarial attacks.
 
+Please refer our final report to know more about the project.
+
 ## Code Description
 
 There is two ipynb files and N pth file.
