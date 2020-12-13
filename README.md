@@ -16,9 +16,9 @@ Please refer our final report to know more about the project.
 
 There is two .ipynb files in code directory and seven .pth files in pretrained directory.
 
-PGD_FGSM.ipynb: This is code of training and testing average/complex attack of PGD and FGSM attack. 
+PGD_FGSM.ipynb: This is code of training and testing average/composite attack of PGD and FGSM attack. 
 
-DDN_FGSM.ipynb: This is code of training and testing average/complex attack of DDN and FGSM attack. 
+DDN_FGSM.ipynb: This is code of training and testing average/composite attack of DDN and FGSM attack. 
 
 You may change parameter in parser default setting cell.
 
@@ -30,11 +30,11 @@ DDN.pth: This is pre-trained GoogLeNet model that trained by DDN attack.
 
 AVG_FGSM_PGD.pth: This is pre-trained GoogLeNet model that trained by average attack of FGSM and PGD.
 
-CMPLX_FGSM_PGD.pth: This is pre-trained GoogLeNet model that trained by complex attack of FGSM and PGD.
+CMP_FGSM_PGD.pth: This is pre-trained GoogLeNet model that trained by composite attack of FGSM and PGD.
 
 AVG_FGSM_DDN.pth: This is pre-trained GoogLeNet model that trained by average attack of FGSM and DDN.
 
-CMPLX_FGSM_DDN.pth: This is pre-trained GoogLeNet model that trained by complex attack of FGSM and DDN.
+CMP_FGSM_DDN.pth: This is pre-trained GoogLeNet model that trained by composite attack of FGSM and DDN.
 
 ## References
 https://blog.csdn.net/u012436149/article/details/77017832 
